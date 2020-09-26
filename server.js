@@ -1,5 +1,3 @@
-// run 'nodemon server.js' then run 'ngrok http 3010' to start ngrok server
-
 const express = require("express");
 const cors = require("cors");
 const bcrypt = require("bcrypt");
